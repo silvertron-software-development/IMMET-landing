@@ -1,0 +1,25 @@
+html {
+    scroll-behavior: smooth;
+}
+
+#services-section {
+    background-color: #005A8D;
+    /* clip-path: polygon(0 2%, 100% 0, 100% 99%, 0 95%); */
+    clip-path: polygon(0 2%, 0 100%, 9% 97%, 17% 97%, 24% 98%, 30% 99%, 41% 100%, 55% 98%, 65% 97%, 74% 98%, 100% 100%, 100% 0);
+}
+
+#us-section {
+    /* background-color: #FAFAFA; */
+    /* clip-path: polygon(0 2%, 100% 0, 100% 99%, 0 95%); */
+    /* clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%); */
+}
+
+footer {
+    /* style="background-color: #2a2929; color: #FAFAFA; */
+    /* border-top: 1px solid black; */
+    /* background-color: #4e4c4c; */
+}
+
+video {
+    border-radius: 10px;
+}
